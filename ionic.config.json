@@ -1,0 +1,7 @@
+{
+  "name": "GeneradorIA",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular-standalone"
+}
